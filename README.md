@@ -34,11 +34,15 @@ Don't know how to calculate the time complexity and memory complexity of a runni
 4. If you need any help or information, feel free to knock me in <a href="https://linkedin.com/in/ahnafhasan144">LinkedIn</a>
 
 ## DEMO
-
+### 1.
 ![Imgur1](https://i.imgur.com/Wbu6AQH.png)
+### 2.
 ![Imgur2](https://i.imgur.com/zWBS30k.png)
+### 3.
 ![Imgur3](https://i.imgur.com/r3hpYOS.png)
+### 4.
 ![Imgur4](https://i.imgur.com/hh8hzba.png)
+### 5.
 ![Imgur5](https://i.imgur.com/jvikykD.png)
 
 
